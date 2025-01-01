@@ -15,5 +15,8 @@
     "url": "https://github.com/syskantechnosoft/hello-world-package/issues"
   },
   "homepage": "https://github.com/syskantechnosoft/hello-world-package#readme",
-  "description": ""
+  "description": "",
+  "publishConfig": {
+    "@syskantechnosoft:registry": "https://npm.pkg.github.com"
+  }
 }
